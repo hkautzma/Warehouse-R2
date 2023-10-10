@@ -1,0 +1,8 @@
+.flexContainer {
+    display: flex;
+}
+.flexBaby {
+    width: 33%; 
+    margin: 3%;
+    padding: 3%;
+}

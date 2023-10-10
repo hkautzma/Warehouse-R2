@@ -1,0 +1,4 @@
+.workGrid {
+    display: grid;
+    grid-template-areas: myArea myArea;
+}
